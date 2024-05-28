@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+.first
+{
+	height:200px;
+	width:auto;
+	background-color:#0C6;
+}
+.second
+{
+	height:200px;
+	width:auto;
+	background-color:#0C9;
+}
+.box1
+{
+	height:30px;
+	background-color:#F00;
+}
+.box2
+{
+	height:300px;
+	border:2px solid #0C0 ;
+	
+}
+.box3
+{
+	height:30px;
+	border:2px solid #339 ;
+	
+}
+.box4
+{
+	
+	border:2px solid #339 ;
+	
+}
